@@ -14,3 +14,4 @@ jobs:
         server: pipeline.dodyh.id
         username:  ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
+        server-dir: /pipeline.dodyh.id/
